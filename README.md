@@ -23,6 +23,6 @@ Jocul este structurat pe etape clare (Planting → Watering → Harvesting) si f
 
 Proiectul este integrat cu un sistem de sesiuni si permite personalizarea comportamentului jocului prin parametri externi.
 
-###Acord
+### Acord
 
 Sunt de acord ca acest proiect sa fie utilizat in cadrul proiectului de cercetare Travee, inclusiv pentru testare, analiza si publicatii stiintifice asociate.
