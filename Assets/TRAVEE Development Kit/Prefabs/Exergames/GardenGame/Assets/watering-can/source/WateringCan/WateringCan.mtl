@@ -1,0 +1,10 @@
+newmtl WateringCan:blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cvg_p020_wateringCan00_di.jpg
+bump  -bm 0.03 cvg_p020_wateringCan00_bp.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
